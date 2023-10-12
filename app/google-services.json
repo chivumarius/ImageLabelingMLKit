@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965494116663",
+    "project_id": "imagelabelingmlkit",
+    "storage_bucket": "imagelabelingmlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965494116663:android:82294e7c5247fe0f590ab2",
+        "android_client_info": {
+          "package_name": "com.chivumarius.imagelabelingmlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX7AeU8dQkFRq1GoKFyZakpG5GxYbZ6x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
